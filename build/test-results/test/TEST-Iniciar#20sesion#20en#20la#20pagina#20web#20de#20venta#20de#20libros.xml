@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Iniciar sesion en la pagina web de venta de libros" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-06-25T02:39:03" hostname="DESKTOP-HK3NGRI" time="37.577">
+  <properties/>
+  <testcase name="Iniciar sesion con usuario y clave" classname="Iniciar sesion en la pagina web de venta de libros" time="13.577"/>
+  <testcase name="Intentar iniciar sesion con usuario invalido" classname="Iniciar sesion en la pagina web de venta de libros" time="11.926"/>
+  <testcase name="Intentar iniciar sesion con clave invalida" classname="Iniciar sesion en la pagina web de venta de libros" time="12.072"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 46150
+Only local connections are allowed.
+jun 24, 2018 9:39:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 3140
+Only local connections are allowed.
+jun 24, 2018 9:39:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 2456
+Only local connections are allowed.
+jun 24, 2018 9:39:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+]]></system-err>
+</testsuite>

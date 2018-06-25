@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Fight or flight" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-06-25T02:39:41" hostname="DESKTOP-HK3NGRI" time="26.902">
+  <properties/>
+  <testcase name="Se debe navegar en la pagina dada, y se debe regresar a la pagina inicial mediante el boton atras" classname="Fight or flight" time="26.902"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 19679
+Only local connections are allowed.
+jun 24, 2018 9:39:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+]]></system-err>
+</testsuite>

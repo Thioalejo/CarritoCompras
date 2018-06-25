@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Iniciar sesion en la pagina para comprar libros" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-06-25T02:38:36" hostname="DESKTOP-HK3NGRI" time="27.485">
+  <properties/>
+  <testcase name="Agregar al carrito de compras los libros que se desee comprar" classname="Iniciar sesion en la pagina para comprar libros" time="27.485"/>
+  <system-out><![CDATA[Se realizo el calculo correctamente, El total es: 2300
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 27759
+Only local connections are allowed.
+jun 24, 2018 9:38:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+]]></system-err>
+</testsuite>
