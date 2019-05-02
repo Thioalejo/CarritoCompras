@@ -22,7 +22,7 @@ public class ComprasPasos extends Util.Constantes {
 
     @Given("^que me encuentro en la pagina de compra quiero agregar (.*) libros de Core Java, (.*) de Ruby for Rails y (.*) Python Cookbook$")
     public void agregarLibrosParaCompra(String CoreJava, String RubyforRails, String Python) throws Throwable {
-        Definidas.esperarSegundos(3);
+        Definidas.esperarSegundos(2);
         Definidas.AgregarAlCarritoDeComprasLibrosDeseados(Integer.parseInt(CoreJava), Integer.parseInt(RubyforRails), Integer.parseInt(Python));
     }
 
